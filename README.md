@@ -5,4 +5,4 @@ Below is a log of directories:
 1. Data Analytics
 2. Data Science
 3. Product Development (WIP)
-4. AI & Machine Learning. (WIP)
+4. AI & Machine Learning. (To be added)
